@@ -13,7 +13,6 @@
 - Добавление и удаление объектов
 - Добавление и изменение отчетов
 - Добавление статусов
-- Просмотр раздела "Избранное"
 
 ![gif](https://s3.amazonaws.com/img0.recordit.co/0yk5Q2ILr2.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1627572975&Signature=5vVfLaJesz63whA9yHcGx4Eczow%3D)
 
