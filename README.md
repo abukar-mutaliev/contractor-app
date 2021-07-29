@@ -14,7 +14,7 @@
 - Добавление и изменение отчетов
 - Добавление статусов
 
-![gif](http://g.recordit.co/j8wAzW8rH1.gif)
+![gif](http://g.recordit.co/0yk5Q2ILr2.gif)
 
 
 ## Запуск проекта
