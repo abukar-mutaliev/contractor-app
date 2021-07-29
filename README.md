@@ -6,7 +6,7 @@
 
 ## Функционал сайта
 
-![gif](https://s3.amazonaws.com/img0.recordit.co/j8wAzW8rH1.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1627572478&Signature=2TRBldGX9MKd4mIs8vz7AlT6t%2BM%3D)
+![gif](http://g.recordit.co/0yk5Q2ILr2.gif)
 
 
 - Поиск объектов по названию
