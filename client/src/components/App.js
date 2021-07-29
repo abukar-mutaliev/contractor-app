@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Header />
       <Switch>
-        <Route path="/home" exact>
+        <Route path="/" exact>
           <Main />
         </Route>
         <Route path="/object/:id/report">

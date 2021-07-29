@@ -124,7 +124,7 @@ export default function Header() {
             />
           </div>
           <div className={classes.sectionDesktop}>
-            <NavLink className={classes.link} color="inherit" to={`/home`}>
+            <NavLink className={classes.link} color="inherit" to={`/`}>
               <Button color="primary">Главная</Button>
             </NavLink>
             <NavLink className={classes.link} color="inherit" to={`/admin`}>
