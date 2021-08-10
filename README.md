@@ -15,7 +15,7 @@
 - Добавление статусов
 
 
-![gif](http://g.recordit.co/5A7kEiUMJE.gif)
+![gif](http://g.recordit.co/0yk5Q2ILr2.gif)
 
 
 ## Запуск проекта
