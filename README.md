@@ -8,6 +8,7 @@
 
 ![gif](http://g.recordit.co/0yk5Q2ILr2.gif)
 
+![gif](http://g.recordit.co/PSErdEdkyb.gif)
 
 - Поиск объектов по названию
 - Добавление и удаление объектов
